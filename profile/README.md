@@ -1,6 +1,6 @@
 # Golden Phoenix Express VTC Development
 
-Welcome to the Golden Phoenix Express (GPE) development organization, where we collaborate to enhance our virtual trucking company (VTC) experience.
+Welcome to the Golden Phoenix Express (GPE) development organization, where we collaborate to enhance our virtual trucking company (VTC).
 
 ## About GPE
 
@@ -15,7 +15,7 @@ If you're passionate about virtual trucking, have programming skills, or have cr
 To apply to GPE's Development team, you need to:
 
 1. **Make sure you have become a full driver for GPE**
-2. **Head over to #join-our-staff-team and apply from our Discord server**
+2. **[Apply Here](https://docs.google.com/forms/d/e/1FAIpQLScG732I1gswN5CpHQC_TRI3j3_uxFF6oDqUDVskzAikaLBZyA/viewform)**
 
 ## GPE is the way to be
 <a href="https://truckersmp.com/vtc/51501-goldenphoenixexpress">
