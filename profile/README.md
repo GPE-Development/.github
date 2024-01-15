@@ -16,9 +16,7 @@ traversing the roads of Euro Truck Simulator 2 and American Truck Simulator.
 If you're passionate about virtual trucking, have programming skills, or have creative ideas, we encourage you to apply
 for our VTC and development team.
 
-To apply to GPE's Development team, you need to:
-
-1.**[Apply Here](https://docs.google.com/forms/d/e/1FAIpQLScG732I1gswN5CpHQC_TRI3j3_uxFF6oDqUDVskzAikaLBZyA/viewform)**
+To apply to GPE's Development team, you need to **[Apply Here](https://docs.google.com/forms/d/e/1FAIpQLScG732I1gswN5CpHQC_TRI3j3_uxFF6oDqUDVskzAikaLBZyA/viewform)**
 
 ## GPE is the way to be
 
