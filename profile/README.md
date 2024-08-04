@@ -6,7 +6,7 @@ Welcome to the Golden Phoenix Express's (GPE) development organization, where we
 
 Golden Phoenix Express was originally founded on 24.05.2020 by HandOfClash. It was re-opened on 01.01.2022 with a new vision to create a family-like VTC Experience for our drivers. A family which is active, friendly, and experienced while traversing the roads of Euro Truck Simulator 2 and American Truck Simulator.
 
-![GPE Logo](https://wsrv.nl/?url=goldenphoenixexpressvtc.com/assets/img/GPE_byMouse.png&w=300)
+![GPE Logo](https://wsrv.nl/?url=goldenphoenixexpressvtc.com/images/about/2024/AboutUs1.webp&w=300)
 
 ## Joining the Development Team
 
